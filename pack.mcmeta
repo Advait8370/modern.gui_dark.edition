@@ -1,5 +1,6 @@
 {
   "pack": {
+<<<<<<< HEAD
     "description": "Modern GUI - Dark Edition V3 | Refined Monochrome Inventory",
     "min_format": [
       88,
@@ -11,3 +12,9 @@
     ]
   }
 }
+=======
+    "pack_format": 75,
+    "description": "Modern GUI-Dark Edition 1.0.3"
+  }
+}
+>>>>>>> 2b3a50dcd46de89c1f369978ce659423d73be177

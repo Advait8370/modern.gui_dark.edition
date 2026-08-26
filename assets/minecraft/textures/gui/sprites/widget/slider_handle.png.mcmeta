@@ -6,9 +6,15 @@
             "height": 20,
             "border": {
                 "left": 2,
+<<<<<<< HEAD
                 "top": 2,
                 "right": 2,
                 "bottom": 3
+=======
+                "top": 4,
+                "right": 2,
+                "bottom": 4
+>>>>>>> 2b3a50dcd46de89c1f369978ce659423d73be177
             }
         }
     }
